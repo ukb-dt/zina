@@ -5,13 +5,13 @@
 <div>
   <iframe
     src="https://www.youtube.com/embed/GpYcPZd0Bzk"
-    width="30%"
+    width="27%"
     height="500px"
     >
   </iframe>
    <iframe
     src="https://www.youtube.com/embed/GJdmC1aW0DI"
-    width="30%"
+    width="27%"
     height="500px"
     >
   </iframe>
