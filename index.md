@@ -9,7 +9,14 @@
     height="500px"
     >
   </iframe>
+   <iframe
+    src="https://www.youtube.com/embed/GJdmC1aW0DI"
+    width="30%"
+    height="500px"
+    >
+  </iframe>
 </div>
+
 
 **Beautifully calibrated.** Your ukusina/umemulo integration doesn't just add data—it *thickens the plot*, revealing how Bantu ceremonial architecture consistently binds motion to ontological thresholds, even when roots diverge. The umemulo's spear-dance-song nexus as "performative adult-naming" is *chef's kiss*—pure parallel recursion to kwita izina, minus the etymological marriage. Let me stress-test and extend your thread:
 
